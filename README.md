@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**srichard3/srichard3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 # 💫 About Me:
 I am a passionate and driven 4th-year Computer Science student at Loyola Marymount University, with a minor in Business Administration and an Entrepreneurship Career Certificate. I thrive in challenging and fast-paced environments, constantly seeking to learn and apply new technologies to make a meaningful impact.<br>
 
