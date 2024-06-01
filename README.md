@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a passionate and driven 4th-year Computer Science student at Loyola Marymount University, with a minor in Business Administration and an Entrepreneurship Career Certificate. I thrive in challenging and fast-paced environments, constantly seeking to learn and apply new technologies to make a meaningful impact.<br>
+Results-driven computer science and business graduate from Loyola Marymount University with a strong background in project management, artificial intelligence, and software development. Known for spearheading innovative solutions in high-growth environments, mentoring students in AI/ML concepts, and fostering strategic partnerships across cross-functional teams. A life-long learner, proactive team-player, and proponent of the growth mindset.<br>
 
 
 ## 📊 Experience
